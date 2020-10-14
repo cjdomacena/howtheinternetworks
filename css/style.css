@@ -1,0 +1,92 @@
+/*
+font-family: 'Lato', sans-serif;
+font-family: 'Poppins', sans-serif;
+*/
+.navbar-container,.dropdown-menu
+{
+    background-color: #282456;
+}
+
+.navbar-nav .nav-item a, .navbar-brand
+{
+    color: #D9E5F8 !important;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 700;
+    font-size: 13px;
+}
+
+.hero-container
+{
+    height: 50vh;
+    background: linear-gradient(46.19deg, #E0EAFC 5.66%, #CFDEF3 94.35%);
+    position: relative;
+}
+
+.hero-items
+{
+    height: 50vh;
+}
+
+.hero-img
+{
+    height: auto;
+    width: 500px;
+    position: absolute;
+    bottom: 0;
+    right: 0;
+}
+.hero-img img
+{
+    max-width: 500px;
+    height: auto;
+}
+
+
+.hero-content
+{
+    min-height: 30vh;
+    width: 50%;
+    margin-left: 50px;
+}
+
+.hero-content h1
+{
+    font-family: 'Poppins',sans-serif;
+    font-size: 61px;
+    font-weight: 700;
+}
+
+.hero-content p
+{
+    font-family: 'Lato',sans-serif;
+    font-size: 18px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media (max-width: 992px )
+{
+    .hero-content
+    {
+        width: 100%;
+        margin-left: 0;
+        text-align: center;
+    }
+}
