@@ -6,11 +6,20 @@
         <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
         <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
       </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
     </expand>
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fffab51a-d1fc-4e9a-8732-6f94a7deb52c" name="Default Changelist" comment="Task: Added Readme page." />
+    <list default="true" id="c842f8ce-e9a2-4a00-972f-9850a35d5260" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -27,7 +36,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="master" />
+        <entry key="$PROJECT_DIR$" value="deployment" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -199,9 +208,18 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="837" y="436" key="Github.ShareDialog/0.0.1920.1080/-1920.0.1920.1040@0.0.1920.1080" timestamp="1602649178454" />
-    <state x="551" y="269" key="Vcs.Push.Dialog.v2" timestamp="1602753864332">
-      <screen x="0" y="0" width="1920" height="1080" />
+    <state x="-1737" y="69" key="MergeDialog" timestamp="1602777766282">
+      <screen x="-1920" y="0" width="1920" height="1040" />
     </state>
+    <state x="-1737" y="69" key="MergeDialog/0.0.1920.1080/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1602777766282" />
+    <state x="-1323" y="280" key="MultipleFileMergeDialog" timestamp="1602777766287">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="-1323" y="280" key="MultipleFileMergeDialog/0.0.1920.1080/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1602777766287" />
+    <state x="-1369" y="259" key="Vcs.Push.Dialog.v2" timestamp="1602777797195">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="-1369" y="259" key="Vcs.Push.Dialog.v2/0.0.1920.1080/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1602777797195" />
     <state x="551" y="269" key="Vcs.Push.Dialog.v2/0.0.1920.1080/-1920.0.1920.1040@0.0.1920.1080" timestamp="1602753864332" />
     <state x="607" y="153" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1602730607122">
       <screen x="0" y="0" width="1920" height="1080" />
