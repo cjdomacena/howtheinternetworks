@@ -10,27 +10,20 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fffab51a-d1fc-4e9a-8732-6f94a7deb52c" name="Default Changelist" comment="Bug: fixed navigation links to each page.">
-      <change afterPath="$PROJECT_DIR$/docs/dns.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/http.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/w3c.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/dns-hero-img.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/dns-img.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/http-hero-img.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/http-img.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/ip-img.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/w3c-hero-img.svg" afterDir="false" />
+    <list default="true" id="fffab51a-d1fc-4e9a-8732-6f94a7deb52c" name="Default Changelist" comment="Task: Added contents and styling.">
+      <change afterPath="$PROJECT_DIR$/docs/about.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/about-img.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/facebook.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/instagram.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/linkedIn.svg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/dns.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/dns.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/http.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/http.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/icann.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/icann.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/ipaddress.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/ipaddress.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hero-img-2.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/hero-img-2.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hero-img.svg" beforeDir="false" afterPath="$PROJECT_DIR$/img/hero-img.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/icann-img.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/icann-img.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/icann-logo.svg" beforeDir="false" afterPath="$PROJECT_DIR$/img/icann-logo.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/w3c.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/w3c.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ip-hero-img.svg" beforeDir="false" afterPath="$PROJECT_DIR$/img/ip-hero-img.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ip-img.svg" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -71,11 +64,11 @@
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\Cj\Desktop\Desktop Folders\BoostrapWebsites\untitled\img" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\Cj\Desktop\Desktop Folders\BoostrapWebsites\untitled" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Cj\Desktop\Desktop Folders\BoostrapWebsites\untitled\img" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -161,7 +154,14 @@
       <option name="project" value="LOCAL" />
       <updated>1602739469573</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="Task: Added contents and styling.">
+      <created>1602748785711</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1602748785711</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -189,17 +189,18 @@
     <MESSAGE value="Task: Fixed nav links" />
     <MESSAGE value="Task: Added IP address Page" />
     <MESSAGE value="Bug: fixed navigation links to each page." />
-    <option name="LAST_COMMIT_MESSAGE" value="Bug: fixed navigation links to each page." />
+    <MESSAGE value="Task: Added contents and styling." />
+    <option name="LAST_COMMIT_MESSAGE" value="Task: Added contents and styling." />
   </component>
   <component name="WindowStateProjectService">
     <state x="837" y="436" key="Github.ShareDialog" timestamp="1602649178454">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="837" y="436" key="Github.ShareDialog/0.0.1920.1080/-1920.0.1920.1040@0.0.1920.1080" timestamp="1602649178454" />
-    <state x="551" y="269" key="Vcs.Push.Dialog.v2" timestamp="1602738970922">
+    <state x="551" y="269" key="Vcs.Push.Dialog.v2" timestamp="1602748878582">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="551" y="269" key="Vcs.Push.Dialog.v2/0.0.1920.1080/-1920.0.1920.1040@0.0.1920.1080" timestamp="1602738970922" />
+    <state x="551" y="269" key="Vcs.Push.Dialog.v2/0.0.1920.1080/-1920.0.1920.1040@0.0.1920.1080" timestamp="1602748878582" />
     <state x="607" y="153" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1602730607122">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
