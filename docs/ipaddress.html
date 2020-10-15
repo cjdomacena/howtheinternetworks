@@ -1,0 +1,154 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="../css/bootstrap.min.css">
+    <link rel="stylesheet" href="../css/style.css">
+
+    <link href="https://fonts.googleapis.com/css2?family=Lato&family=Poppins:wght@300;400;700&display=swap" rel="stylesheet">
+    <title>IP Address</title>
+</head>
+<body>
+<!-- NAV CONTENTS -->
+
+<header class="nav">
+    <div class="container-md navbar-container">
+        <nav class="navbar navbar-expand-lg navbar-dark bg-transparent shadow">
+            <a class="navbar-brand primary-color" href="#">IS117</a>
+            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse justify-content-end" id="navbarNavDropdown">
+                <ul class="navbar-nav">
+                    <li class="nav-item active">
+                        <a class="nav-link" href="../index.html">HOME</a>
+                    </li>
+                    <  <li class="nav-item dropdown">
+                    <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                        TOPICS
+                    </a>
+                    <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
+                        <a class="dropdown-item" href="icann.html">ICANN</a>
+                        <a class="dropdown-item" href="#">DNS</a>
+                        <a class="dropdown-item" href="#">W3C</a>
+                        <a class="dropdown-item" href="ipaddress.html">IP Address</a>
+                        <a class="dropdown-item" href="#">HTTPS</a>
+                    </div>
+                </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="#">ABOUT</a>
+                    </li>
+
+                </ul>
+            </div>
+        </nav>
+    </div>
+</header>
+
+<!-- Header hero -->
+<div class="container-md icann-banner-container">
+    <div class="icann-banner-contents container-md d-flex">
+        <div class="icann-banner-text">
+            <h1>Internet Protocol (IP) Address</h1>
+            <p>An IP address provides an identity to a networked device on the internet. Similar to a home or business address that supplies a specific physical location with an identifiable address, devices on a network are differentiated from one another through IP addresses.</p>
+        </div>
+        <div class="icann-logo ml-5 d-none d-xl-block d-lg-block">
+            <img src="../ip-hero-img.svg" alt="">
+        </div>
+    </div>
+</div>
+
+<div class="container ">
+    <div class="container ip-container">
+        <div class="row ip-first-row">
+            <div class="col-12 col-lg-3 test ip-left-box">
+                <div class="ip-left-box-text">
+                    <h1 class="mb-3 ml-1">There are two types of Internet Protocol: IPv4 and IPv6.</h1>
+                    <p>
+                        <strong>IPv4</strong> <br>
+                        Internet Protocol version 4 (IPv4) defines an IP address as a 32-bit number.
+                    </p>
+                    <p>
+                        <strong>IPv6</strong> <br>
+                        Internet Protocol version 6 (IPv6) defines an IP address as a 128-bit number.
+                    </p>
+                </div>
+            </div>
+            <div class="col-12 col-lg-9 text-color">
+                    <div class="ip-right-box ml-3 mt-1">
+                        <p>
+                            Every time you connect to the Internet, your Internet service provider assigns your computer a unique numerical address. This unique address identifies your computer on the network so that you can request and receive information. The address is known as an Internet Protocol (IP) address. When you initiate a request, such as clicking on a link in your Web browser, the request travels across the Internet in the form of data packets stamped with your IP address. This IP address helps to identify you through the network when you request information to the internet.
+                        </p>
+                        <p>
+                            Due to the structure of networks, small IP packets work more efficiently than large packets. A single, large IP packet would not only take longer to transmit, but high traffic conditions would quickly clog the network.
+                            Sending smaller packets has the advantage of moving more traffic through available routes at a faster pace with less chance of creating bottlenecks. Consequently, each IP packet travels the Internet independently, guided by routers that read the destination address and forward the packet along the fastest available route. At the destination address the packets are reassembled. This is where TCP/IP comes into play.
+
+                        </p>
+                        <p>
+                            Consequently, each IP packet travels the Internet independently, guided by routers that read the destination address and forward the packet along the fastest available route. At the destination address the packets are reassembled. This is where TCP/IP comes into play.
+                        </p>
+
+                    </div>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="container ">
+    <div class="container ip-container text-color">
+            <div class="row second-ip-content">
+                <div class="col-12 col-lg-9">
+                   <div class="ip-item-left">
+                       <div>
+                           <h1>Transmission Control/Internet Protocol (TCP/IP)</h1>
+                           <p>
+                               TCP/IP governs communication among all computers on the network and dictates how information should be packaged and turned into packets. This allows us to easily interconnect different networks and send and receive information.
+                           </p>
+                           <p>
+                               The Transmission Control Protocol is responsible for ensuring the reliable transmission of data across Internet-connected networks. TCP checks packets for errors and submits requests for re-transmissions if any are found.
+                           </p>
+                       </div>
+                       <div class="mt-5">
+                           <h1>Four total layers of TCP/IP protocol:</h1>
+                           <ul class="list-unstyled">
+                               <li>
+                                   <strong>Network Access Layer</strong> - This layer is concerned with building packets.
+                               </li>
+                               <li>
+                                   <strong>Internet Layer</strong> - This layer uses IP (Internet Protocol) to describe how packets are to be delivered.
+                               </li>
+                               <li>
+                                   <strong>Transport Layer</strong> - This layer utilizes UDP (User Datagram Protocol) and TCP (Transmission Control Protocol) to ensure the proper transmission of data.
+                               </li>
+                               <li>
+                                   <strong>Application Layer</strong> - This layer deals with application network processes. These processes include FTP (File Transfer Protocol), HTTP (Hypertext Transfer Protocol), and SMTP (Simple Mail Transfer Protocol).
+                               </li>
+                           </ul>
+                       </div>
+                   </div>
+                </div>
+                
+                <div class="col-6 col-lg-3 ip-item-right">
+                    <img src="../ip-img.svg" class="img-fluid ip-item-img" alt="">
+                </div>
+
+                
+                
+            </div>
+        </div>
+</div>
+
+
+
+
+
+
+
+
+<script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
+<script src="../js/bootstrap.bundle.js"></script>
+</body>
+</html>
