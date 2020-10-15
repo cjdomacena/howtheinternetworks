@@ -11,7 +11,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fffab51a-d1fc-4e9a-8732-6f94a7deb52c" name="Default Changelist" comment="Task: Added Readme page.">
-      <change beforePath="$PROJECT_DIR$/README.MD" beforeDir="false" afterPath="$PROJECT_DIR$/README.MD" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/about.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,7 +48,7 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../sole_ution_04" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
@@ -71,6 +72,8 @@
       <workItem from="1602645372262" duration="6884000" />
       <workItem from="1602674021184" duration="784000" />
       <workItem from="1602723816972" duration="21344000" />
+      <workItem from="1602764911302" duration="49000" />
+      <workItem from="1602777228444" duration="190000" />
     </task>
     <task id="LOCAL-00001" summary="Task: Initial Commit">
       <created>1602643295526</created>
@@ -163,7 +166,14 @@
       <option name="project" value="LOCAL" />
       <updated>1602753784695</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="Task: Added Readme page.">
+      <created>1602764933313</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1602764933313</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -197,6 +207,10 @@
     <option name="LAST_COMMIT_MESSAGE" value="Task: Added Readme page." />
   </component>
   <component name="WindowStateProjectService">
+    <state x="742" y="293" key="FileChooserDialogImpl" timestamp="1602764958657">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="742" y="293" key="FileChooserDialogImpl/0.0.1920.1080/-1920.0.1920.1040@0.0.1920.1080" timestamp="1602764958657" />
     <state x="837" y="436" key="Github.ShareDialog" timestamp="1602649178454">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
