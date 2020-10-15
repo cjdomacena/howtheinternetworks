@@ -10,7 +10,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fffab51a-d1fc-4e9a-8732-6f94a7deb52c" name="Default Changelist" comment="Task: Added hero-img-2.&#10;Task: Added second content header">
+    <list default="true" id="fffab51a-d1fc-4e9a-8732-6f94a7deb52c" name="Default Changelist" comment="Feature: Added Topic cards.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
@@ -67,7 +67,9 @@
       <option name="presentableId" value="Default" />
       <updated>1602640208712</updated>
       <workItem from="1602640211411" duration="3247000" />
-      <workItem from="1602645372262" duration="6840000" />
+      <workItem from="1602645372262" duration="6884000" />
+      <workItem from="1602674021184" duration="784000" />
+      <workItem from="1602723816972" duration="128000" />
     </task>
     <task id="LOCAL-00001" summary="Task: Initial Commit">
       <created>1602643295526</created>
@@ -90,7 +92,14 @@
       <option name="project" value="LOCAL" />
       <updated>1602649193028</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Feature: Added Topic cards.">
+      <created>1602654952984</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1602654952984</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -106,21 +115,23 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="Task: Initial Commit" />
     <MESSAGE value="Task: Added hero-img-2.&#10;Task: Added second content header" />
-    <option name="LAST_COMMIT_MESSAGE" value="Task: Added hero-img-2.&#10;Task: Added second content header" />
+    <MESSAGE value="Feature: Added Topic cards." />
+    <option name="LAST_COMMIT_MESSAGE" value="Feature: Added Topic cards." />
   </component>
   <component name="WindowStateProjectService">
     <state x="837" y="436" key="Github.ShareDialog" timestamp="1602649178454">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="837" y="436" key="Github.ShareDialog/0.0.1920.1080/-1920.0.1920.1040@0.0.1920.1080" timestamp="1602649178454" />
-    <state x="551" y="269" key="Vcs.Push.Dialog.v2" timestamp="1602649195123">
+    <state x="551" y="269" key="Vcs.Push.Dialog.v2" timestamp="1602654956571">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="551" y="269" key="Vcs.Push.Dialog.v2/0.0.1920.1080/-1920.0.1920.1040@0.0.1920.1080" timestamp="1602649195123" />
+    <state x="551" y="269" key="Vcs.Push.Dialog.v2/0.0.1920.1080/-1920.0.1920.1040@0.0.1920.1080" timestamp="1602654956571" />
   </component>
 </project>
