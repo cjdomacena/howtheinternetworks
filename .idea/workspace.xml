@@ -10,12 +10,10 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fffab51a-d1fc-4e9a-8732-6f94a7deb52c" name="Default Changelist" comment="Bug: Fixed responsive layout for topic cards">
-      <change afterPath="$PROJECT_DIR$/docs/icann.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/icann-img.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/icann-logo.svg" afterDir="false" />
+    <list default="true" id="fffab51a-d1fc-4e9a-8732-6f94a7deb52c" name="Default Changelist" comment="Task: Added ICANN contents and finished styling.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/icann.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/icann.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -71,7 +69,7 @@
       <workItem from="1602640211411" duration="3247000" />
       <workItem from="1602645372262" duration="6884000" />
       <workItem from="1602674021184" duration="784000" />
-      <workItem from="1602723816972" duration="6589000" />
+      <workItem from="1602723816972" duration="6688000" />
     </task>
     <task id="LOCAL-00001" summary="Task: Initial Commit">
       <created>1602643295526</created>
@@ -108,7 +106,14 @@
       <option name="project" value="LOCAL" />
       <updated>1602724023555</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Task: Added ICANN contents and finished styling.">
+      <created>1602730748124</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1602730748124</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -132,7 +137,8 @@
     <MESSAGE value="Task: Added hero-img-2.&#10;Task: Added second content header" />
     <MESSAGE value="Feature: Added Topic cards." />
     <MESSAGE value="Bug: Fixed responsive layout for topic cards" />
-    <option name="LAST_COMMIT_MESSAGE" value="Bug: Fixed responsive layout for topic cards" />
+    <MESSAGE value="Task: Added ICANN contents and finished styling." />
+    <option name="LAST_COMMIT_MESSAGE" value="Task: Added ICANN contents and finished styling." />
   </component>
   <component name="WindowStateProjectService">
     <state x="837" y="436" key="Github.ShareDialog" timestamp="1602649178454">
