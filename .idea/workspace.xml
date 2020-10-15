@@ -10,9 +10,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fffab51a-d1fc-4e9a-8732-6f94a7deb52c" name="Default Changelist" comment="Task: Added Readme page.">
-      <change beforePath="$PROJECT_DIR$/README.MD" beforeDir="false" afterPath="$PROJECT_DIR$/README.MD" afterDir="false" />
-    </list>
+    <list default="true" id="fffab51a-d1fc-4e9a-8732-6f94a7deb52c" name="Default Changelist" comment="Task: Added Readme page." />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -52,11 +50,11 @@
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\Cj\Desktop\Desktop Folders\BoostrapWebsites\untitled\img" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\Cj\Desktop\Desktop Folders\BoostrapWebsites\untitled" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Cj\Desktop\Desktop Folders\BoostrapWebsites\untitled\img" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -201,10 +199,10 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="837" y="436" key="Github.ShareDialog/0.0.1920.1080/-1920.0.1920.1040@0.0.1920.1080" timestamp="1602649178454" />
-    <state x="551" y="269" key="Vcs.Push.Dialog.v2" timestamp="1602753786428">
+    <state x="551" y="269" key="Vcs.Push.Dialog.v2" timestamp="1602753864332">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="551" y="269" key="Vcs.Push.Dialog.v2/0.0.1920.1080/-1920.0.1920.1040@0.0.1920.1080" timestamp="1602753786428" />
+    <state x="551" y="269" key="Vcs.Push.Dialog.v2/0.0.1920.1080/-1920.0.1920.1040@0.0.1920.1080" timestamp="1602753864332" />
     <state x="607" y="153" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1602730607122">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
