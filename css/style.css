@@ -111,13 +111,12 @@ font-family: 'Poppins', sans-serif;
 
 .card-body
 {
-    background-color:#282456 ;
+    background-color:#D9E5F8 ;
     border-radius: 3px;
 }
 .card
 {
     border-style: none;
-    box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
 }
 
 .topic-header-title h1
@@ -127,7 +126,7 @@ font-family: 'Poppins', sans-serif;
 
 .card-link,.card-text
 {
-    color: white;
+    color: #282456;
 }
 
 
@@ -137,7 +136,7 @@ font-family: 'Poppins', sans-serif;
     font-family: 'Poppins', sans-serif;
     font-size: 21px;
     font-weight: 700;
-    color: #D9E5F8;
+    color: #282456;
 }
 
 
@@ -324,6 +323,88 @@ font-family: 'Poppins', sans-serif;
 }
 
 
+
+.dns-items
+{
+    width: 90%;
+}
+.test
+{
+
+}
+
+.icann-history-img
+{
+    height: max-content;
+
+}
+
+/* HTTP STYLING*/
+.http-items-container
+{
+    margin-top: 50px;
+    width: 95%;
+}
+
+.http-description-left
+{
+    background-color: #282456;
+    color: #D9E5F8;
+    min-height: 300px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    border-radius: 10px;
+}
+.http-description-left h1
+{
+    font-family: 'Poppins', sans-serif;
+    font-size: 26px;
+    margin-left: 10px;
+    font-weight: 700;
+}
+
+.http-description-left p
+{
+    font-family: Lato, sans-serif;
+    font-size: 16px;
+    margin-left: 10px;
+}
+.https-description
+{
+    background-color: #282456;
+    padding: 20px;
+    color: #D9E5F8;
+}
+.https-description h1
+{
+    font-family: 'Poppins', sans-serif;
+    font-size: 26px;
+    font-weight: 700;
+}
+
+.versus-text h1
+{
+    font-family: 'Poppins', sans-serif;
+    font-size: 26px;
+    font-weight: 700;
+}
+
+.versus-text p
+{
+    font-family: Lato, sans-serif;
+    font-size: 16px;
+}
+
+.versus-row img
+{
+    border-radius: 10px;
+}
+
+.placeholder
+{
+    height: 100vh;
+}
 @media (max-width: 992px )
 {
     .hero-content, .second-content-text
@@ -345,4 +426,5 @@ font-family: 'Poppins', sans-serif;
     width: 100%;
     margin-left: 0;
 }
+
 }
