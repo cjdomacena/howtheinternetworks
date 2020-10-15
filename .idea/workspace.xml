@@ -10,9 +10,8 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fffab51a-d1fc-4e9a-8732-6f94a7deb52c" name="Default Changelist" comment="Task: Added contents and styling.">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+    <list default="true" id="fffab51a-d1fc-4e9a-8732-6f94a7deb52c" name="Default Changelist" comment="Task: Added Readme page.">
+      <change beforePath="$PROJECT_DIR$/README.MD" beforeDir="false" afterPath="$PROJECT_DIR$/README.MD" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -150,7 +149,21 @@
       <option name="project" value="LOCAL" />
       <updated>1602748785711</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="Bug: Fixed header hero text color.">
+      <created>1602753633382</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1602753633382</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Task: Added Readme page.">
+      <created>1602753784695</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1602753784695</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -179,17 +192,19 @@
     <MESSAGE value="Task: Added IP address Page" />
     <MESSAGE value="Bug: fixed navigation links to each page." />
     <MESSAGE value="Task: Added contents and styling." />
-    <option name="LAST_COMMIT_MESSAGE" value="Task: Added contents and styling." />
+    <MESSAGE value="Bug: Fixed header hero text color." />
+    <MESSAGE value="Task: Added Readme page." />
+    <option name="LAST_COMMIT_MESSAGE" value="Task: Added Readme page." />
   </component>
   <component name="WindowStateProjectService">
     <state x="837" y="436" key="Github.ShareDialog" timestamp="1602649178454">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="837" y="436" key="Github.ShareDialog/0.0.1920.1080/-1920.0.1920.1040@0.0.1920.1080" timestamp="1602649178454" />
-    <state x="551" y="269" key="Vcs.Push.Dialog.v2" timestamp="1602753540492">
+    <state x="551" y="269" key="Vcs.Push.Dialog.v2" timestamp="1602753786428">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="551" y="269" key="Vcs.Push.Dialog.v2/0.0.1920.1080/-1920.0.1920.1040@0.0.1920.1080" timestamp="1602753540492" />
+    <state x="551" y="269" key="Vcs.Push.Dialog.v2/0.0.1920.1080/-1920.0.1920.1040@0.0.1920.1080" timestamp="1602753786428" />
     <state x="607" y="153" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1602730607122">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
