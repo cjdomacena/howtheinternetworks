@@ -10,12 +10,8 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fffab51a-d1fc-4e9a-8732-6f94a7deb52c" name="Default Changelist" comment="Task: Fixed nav links">
-      <change afterPath="$PROJECT_DIR$/docs/ipaddress.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ip-hero-img.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ip-img.svg" afterDir="false" />
+    <list default="true" id="fffab51a-d1fc-4e9a-8732-6f94a7deb52c" name="Default Changelist" comment="Task: Added IP address Page">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/icann.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/icann.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
@@ -73,7 +69,7 @@
       <workItem from="1602640211411" duration="3247000" />
       <workItem from="1602645372262" duration="6884000" />
       <workItem from="1602674021184" duration="784000" />
-      <workItem from="1602723816972" duration="11984000" />
+      <workItem from="1602723816972" duration="12450000" />
     </task>
     <task id="LOCAL-00001" summary="Task: Initial Commit">
       <created>1602643295526</created>
@@ -131,7 +127,14 @@
       <option name="project" value="LOCAL" />
       <updated>1602730849160</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Task: Added IP address Page">
+      <created>1602738963783</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1602738963783</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -157,17 +160,18 @@
     <MESSAGE value="Bug: Fixed responsive layout for topic cards" />
     <MESSAGE value="Task: Added ICANN contents and finished styling." />
     <MESSAGE value="Task: Fixed nav links" />
-    <option name="LAST_COMMIT_MESSAGE" value="Task: Fixed nav links" />
+    <MESSAGE value="Task: Added IP address Page" />
+    <option name="LAST_COMMIT_MESSAGE" value="Task: Added IP address Page" />
   </component>
   <component name="WindowStateProjectService">
     <state x="837" y="436" key="Github.ShareDialog" timestamp="1602649178454">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="837" y="436" key="Github.ShareDialog/0.0.1920.1080/-1920.0.1920.1040@0.0.1920.1080" timestamp="1602649178454" />
-    <state x="551" y="269" key="Vcs.Push.Dialog.v2" timestamp="1602654956571">
+    <state x="551" y="269" key="Vcs.Push.Dialog.v2" timestamp="1602738970922">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="551" y="269" key="Vcs.Push.Dialog.v2/0.0.1920.1080/-1920.0.1920.1040@0.0.1920.1080" timestamp="1602654956571" />
+    <state x="551" y="269" key="Vcs.Push.Dialog.v2/0.0.1920.1080/-1920.0.1920.1040@0.0.1920.1080" timestamp="1602738970922" />
     <state x="607" y="153" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1602730607122">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
