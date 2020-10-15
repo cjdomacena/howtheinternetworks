@@ -10,9 +10,8 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fffab51a-d1fc-4e9a-8732-6f94a7deb52c" name="Default Changelist" comment="Task: Added ICANN contents and finished styling.">
+    <list default="true" id="fffab51a-d1fc-4e9a-8732-6f94a7deb52c" name="Default Changelist" comment="Task: Fixed nav links">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/icann.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/icann.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -69,7 +68,7 @@
       <workItem from="1602640211411" duration="3247000" />
       <workItem from="1602645372262" duration="6884000" />
       <workItem from="1602674021184" duration="784000" />
-      <workItem from="1602723816972" duration="6688000" />
+      <workItem from="1602723816972" duration="6715000" />
     </task>
     <task id="LOCAL-00001" summary="Task: Initial Commit">
       <created>1602643295526</created>
@@ -113,7 +112,14 @@
       <option name="project" value="LOCAL" />
       <updated>1602730748124</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Task: Fixed nav links">
+      <created>1602730836410</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1602730836410</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -138,7 +144,8 @@
     <MESSAGE value="Feature: Added Topic cards." />
     <MESSAGE value="Bug: Fixed responsive layout for topic cards" />
     <MESSAGE value="Task: Added ICANN contents and finished styling." />
-    <option name="LAST_COMMIT_MESSAGE" value="Task: Added ICANN contents and finished styling." />
+    <MESSAGE value="Task: Fixed nav links" />
+    <option name="LAST_COMMIT_MESSAGE" value="Task: Fixed nav links" />
   </component>
   <component name="WindowStateProjectService">
     <state x="837" y="436" key="Github.ShareDialog" timestamp="1602649178454">
